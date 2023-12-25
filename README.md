@@ -16,6 +16,6 @@ please support the devs - https://steamcommunity.com/app/1813430
 PS: This is a bare bones option, if you want, please fork this and add the modified SFW animations
 - THIS IS FOR THE VERSION 3.34 VERSION (will probably update when the game gets updated) 
 - (if you want to help, I'm looking! if you don't want to make a fork, you can contact me on reddit as F3mboiYomi
-- I'm looking for someone to make SFW versions of the NSFW animations, and possibly new sound effects, obviously this is all a collaborate effort so there's no payment (obviously, bc thats making profit off something created by someone else, see ya there!)
+- I'm looking for someone to make SFW versions of the NSFW animations, and possibly new sound effects, obviously this is all a collaborate effort so there's no payment (obviously, bc thats making profit off something created by someone else, if you decide to help, see ya there!)
 - AND THIS DOES NOT REMOVE NSFW FROM THE MODS, ONLY THE BASE GAME.
 - anyways, have fun!
