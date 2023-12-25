@@ -5,7 +5,7 @@ An attempt at making BeatBanger a SFW game by modifying its files
 for any reason, I introduce to you a modification of the game's files. (it's fairly easy but, yknow, it takes time)
 
 So what does this modification do?
--it removes images, videos
+- it removes images, videos
 - it replaces the sfx to Project Diva ones, yknow - cuz the sfx are nsfw too.
 
 this modification DOES NOT include THE EXE of BEAT BANGER.
@@ -13,4 +13,6 @@ This only has the modified "data" folder,
 if you haven't bought the game...
 please support the devs - https://steamcommunity.com/app/1813430
 
+PS: This is a bare bones option, if you want, please fork this and add the modified SFW animations
+THIS IS FOR THE VERSION 3.34 VERSION (will probably update when the game gets updated) 
 anyways, have fun!
