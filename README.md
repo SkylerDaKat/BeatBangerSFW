@@ -8,6 +8,14 @@ So what does this modification do?
 - it removes images, videos
 - it replaces the sfx to Project Diva ones, yknow - cuz the sfx are nsfw too.
 
+**How to add the SFW Mod**
+- Go to C:\Program Files (x86)\Steam\steamapps\common\Beat Banger\ (or whatever your Beat Banger installation is)
+- Remove the data folder
+- Paste the modded data folder
+- And you are done! Just launch the game and all the NSFW Assets should not be there
+  **This github page exists so you don't have to do it manually**
+
+  
 this modification DOES NOT include THE EXE of BEAT BANGER.
 This only has the modified "data" folder, 
 if you haven't bought the game...
