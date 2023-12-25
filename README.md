@@ -14,10 +14,10 @@ So what does this modification do?
 - Paste the modded data folder
 - And you are done! Just launch the game and all the NSFW Assets should not be there
   **This github page exists so you don't have to do it manually**
-
+  **and this is only for the steam version, not legacy**
   
-this modification DOES NOT include THE EXE of BEAT BANGER.
-This only has the modified "data" folder, 
+this modification DOES NOT include A COPY of BEAT BANGER.
+This only has the modified "data" folder
 if you haven't bought the game...
 please support the devs - https://steamcommunity.com/app/1813430
 
