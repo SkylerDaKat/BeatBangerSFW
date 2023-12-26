@@ -7,8 +7,9 @@ for any reason, I introduce to you a modification of the game's files. (it's fai
 So what does this modification do?
 - it removes images, videos
 - it replaces the sfx to Project Diva ones, yknow - cuz the sfx are nsfw too.
-- (If you install the (R) version, you also remove all the unused/locked content that you can't even get to anyway, like when windows had an "N" version of thier software)
-**How to add the SFW Mod**
+- (If you install the (R) version, you also remove all the unused/locked content that you can't even get to anyway, like when windows had an "N" version of their software)
+---------------------------------------
+- **How to add the SFW Mod**
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Beat Banger\ (or whatever your Beat Banger installation is)
 - Remove the data folder
 - Paste the modded data folder
