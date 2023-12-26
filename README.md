@@ -7,7 +7,7 @@ for any reason, I introduce to you a modification of the game's files. (it's fai
 So what does this modification do?
 - it removes images, videos
 - it replaces the sfx to Project Diva ones, yknow - cuz the sfx are nsfw too.
-
+- (If you install the (R) version, you also remove all the unused/locked content that you can't even get to anyway, like when windows had an "N" version of thier software)
 **How to add the SFW Mod**
 - Go to C:\Program Files (x86)\Steam\steamapps\common\Beat Banger\ (or whatever your Beat Banger installation is)
 - Remove the data folder
@@ -26,4 +26,5 @@ PS: This is a bare bones option, if you want, please fork this and add the modif
 - (if you want to help, I'm looking! if you don't want to make a fork, you can contact me on reddit as F3mboiYomi
 - I'm looking for someone to make SFW versions of the NSFW animations, and possibly new sound effects, obviously this is all a collaborate effort so there's no payment (obviously, bc thats making profit off something created by someone else, if you decide to help, see ya there!)
 - AND THIS DOES NOT REMOVE NSFW FROM THE MODS, ONLY THE BASE GAME.
+- (PPS: There's files I just can't remove like the lovense image, or the ending image after beating the last level, so be careful with that)
 - anyways, have fun!
